@@ -1,5 +1,4 @@
-LSTM built using the Keras Python package to predict time series steps and sequences. .
-
+_### **LSTM-and-CNN-model-for-Time-Series-Forecasting**_
 
 
 Requirements
