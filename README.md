@@ -1,7 +1,6 @@
-_### **LSTM-and-CNN-model-for-Time-Series-Forecasting**_
+**_### **LSTM-and-CNN-model-for-Time-Series-Forecasting**_**
 
-
-Requirements
+**Requirements**
 
 Python 3.5.x
 TensorFlow 1.10.0
