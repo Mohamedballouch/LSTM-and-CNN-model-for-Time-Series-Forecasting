@@ -12,3 +12,4 @@ Matplotlib 2.2.2
 Output for sine wave sequential prediction:
 
 
+![image](https://user-images.githubusercontent.com/28219393/76401326-c03fc080-6392-11ea-993e-d479bac709e0.png)
